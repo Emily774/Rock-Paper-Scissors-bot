@@ -1,0 +1,3 @@
+[submodule "Dynamite-Python"]
+	path = Dynamite-Python
+	url = https://github.com/VisionSoftwareLtd/Dynamite-Python.git
